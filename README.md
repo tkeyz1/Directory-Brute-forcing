@@ -65,6 +65,18 @@ Discover hidden directories and sensitive files.
 - Monitor HTTP status codes to identify valid directories (e.g., 200 OK, 301/302 redirects).
 
   ![image](https://github.com/user-attachments/assets/17194e37-73e6-40d9-9d84-284ed9bca614).
-  
+
+### 5. Analyze Responses
+- Monitor HTTP status codes to identify valid directories (e.g., 200 OK, 301/302 redirects).
+- Pay attention to 403 Forbidden responses which may indicate restricted but existing directories.
+
+  ![image](https://github.com/user-attachments/assets/95b42880-87fb-4173-af7e-78382b4d62f3)
+
+- Filter out false positives and irrelevant responses.
+
+  ![image](https://github.com/user-attachments/assets/3b9bc085-8102-4cf4-95c7-342dabdbb9c0)
+
+  ![image](https://github.com/user-attachments/assets/d50f9195-1e7a-4e45-a0a2-612c2d671a67)
+
 
 
