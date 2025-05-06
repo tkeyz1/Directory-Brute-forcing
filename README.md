@@ -67,8 +67,4 @@ Discover hidden directories and sensitive files.
   ![image](https://github.com/user-attachments/assets/17194e37-73e6-40d9-9d84-284ed9bca614).
   
 
-Every screenshot should have some text explaining what the screenshot is about.
 
-Example below.
-
-*Ref 1: Network Diagram*
